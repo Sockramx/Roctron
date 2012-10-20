@@ -1,0 +1,11 @@
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\bin\Debug\Roctron V1.0.exe
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\bin\Debug\Roctron V1.0.pdb
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\bin\Debug\Roctron V1.0.xml
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\obj\x86\Debug\Roctron_V1._0.Resources.resources
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\obj\x86\Debug\Roctron V1.0.exe
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\obj\x86\Debug\Roctron V1.0.xml
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\obj\x86\Debug\Roctron V1.0.pdb
+c:\users\sockramx\documents\visual studio 2010\Projects\Roctron V1.0\Roctron V1.0\obj\x86\Debug\Roctron_V1._0.frmLogin.resources
